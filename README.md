@@ -994,3 +994,4 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+- okay
